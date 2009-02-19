@@ -3,7 +3,7 @@ Contributors: abitgone
 Tags: comments, spam, xhtml, html, tags, strip, cleanse
 Requires at least: 2.7
 Tested up to: 2.7.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 CommentSafe is a very simple plugin which removes (X)HTML tags you specify from your comments. 
 
