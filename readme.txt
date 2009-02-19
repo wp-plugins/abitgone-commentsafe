@@ -1,6 +1,6 @@
 === aBitGone CommentSafe ===
 Contributors: abitgone
-Tags: comments, spam, xhtml, html, tags, strip, cleanse
+Tags: comments, spam, xhtml, html, tags, strip, cleanse, plugin
 Requires at least: 2.7
 Tested up to: 2.7.1
 Stable tag: 1.0.0
