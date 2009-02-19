@@ -14,7 +14,7 @@ CommentSafe is a really simple plugin that I've written for WordPress. Very simp
 of (X)HTML tags - which you can specify through the admin interface - and does one of three things 
 with those tags, when they're found in your comments:
 
-1. Strip tags (example: `A <b>bold</b> choice` becomes `A bold choice` — default)
+1. Strip tags (example: `A <b>bold</b> choice` becomes `A bold choice` - default)
 2. Convert tags (example: `A <b>bold</b>` choice becomes `A &lt;b&gt;bold&lt;/b&gt; choice`)
 3. Remove tags and content (example: `A <b>bold</b> choice` becomes `A choice`)
 
