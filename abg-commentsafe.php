@@ -27,14 +27,14 @@
 
 	### WordPress Plugin Interface ###
 	
-	/*
-		Plugin Name: 	abg CommentSafe
-		Plugin URI: 	http://abitgone.co.uk/projects/commentsafe
-		Description: 	A very simple plugin that removes additional, specific tags from comments. Go to <a href="?page=abg_commentsafe">Plugins&rarr;CommentSafe Options</a> (once you've activated the plugin) for more details and to set your preferred tags.
-		Version: 		1.0.0
-		Author: 		Anthony Williams
-		Author URI: 	http://abitgone.co.uk/
-	*/
+/*
+Plugin Name: 	abg CommentSafe
+Plugin URI: 	http://abitgone.co.uk/projects/commentsafe
+Description: 	A very simple plugin that removes additional, specific tags from comments. Go to <a href="?page=abg_commentsafe">Plugins&rarr;CommentSafe Options</a> (once you've activated the plugin) for more details and to set your preferred tags.
+Version: 		1.0.0
+Author: 		Anthony Williams
+Author URI: 	http://abitgone.co.uk/
+*/
 
 	#
 	#	Add menu item to Options menu.
