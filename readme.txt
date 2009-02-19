@@ -28,5 +28,5 @@ For further information and updates, see <http://abitgone.co.uk/projects/comment
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to 'abg CommentSafe' in the 'Settings' menu in WordPress and enter the list of (X)HTML tags 
    you wish to filter.
-4. Choose an strip method
+4. Choose a strip method
 5. Update the Tags
