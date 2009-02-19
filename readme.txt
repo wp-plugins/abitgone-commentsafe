@@ -31,3 +31,8 @@ For further information and updates, see <http://abitgone.co.uk/projects/comment
    you wish to filter.
 4. Choose a strip method
 5. Update the Tags
+
+== Screenshots ==
+
+1. The CommentSafe administration interface, making it super-easy for you to modify the list of 
+   (X)HTML tags you wish you filter.
